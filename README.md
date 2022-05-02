@@ -1,3 +1,3 @@
 # shelter
-RS School's project with a two pages markup requirements, adaptive and interactive.
+RS School's project with a two pages markup requirements, adaptive and interactive.<br>
 Link: https://difidarova.github.io/shelter/pages/main/index.html
