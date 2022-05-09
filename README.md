@@ -1,4 +1,4 @@
 # shelter
 RS School's project with a two pages markup requirements, adaptive and interactive.<br>
-Main page: https://difidarova.github.io/shelter/pages/main/index.html
+Main page: https://difidarova.github.io/shelter/pages/main/index.html <br>
 Pets page: https://difidarova.github.io/shelter/pages/pets/index.html
